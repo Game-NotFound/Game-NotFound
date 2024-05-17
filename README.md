@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Spring & Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hhhau1910@gmail.com
-- ⚡ Fun fact: I have two cats
+- ⚡ Fun fact: I have two cats (trắng & xám)
 
 <!---
 Game-NotFound/Game-NotFound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
